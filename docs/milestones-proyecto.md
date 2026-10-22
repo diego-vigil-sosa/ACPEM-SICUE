@@ -6,9 +6,9 @@ Los dos milestones avanzan en la misma historia de usuario, la
 ## M0. Módulo base de la HU1
 
 **Historia de usuario:**
-[HU1](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/issues/3).
+[HU1](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/3).
 **En GitHub:**
-[M0](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestone/1).
+[M0](https://github.com/diego-vigil-sosa/ACPEM-SICUE/milestone/1).
 
 ### Producto
 
@@ -29,9 +29,9 @@ el código, y nada de lo que está en el código proviene de fuera de la HU1.
 ## M1. Módulo de equivalencia con tests
 
 **Historia de usuario:**
-[HU1](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/issues/3).
+[HU1](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/3).
 **En GitHub:**
-[M1](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestone/2).
+[M1](https://github.com/diego-vigil-sosa/ACPEM-SICUE/milestone/2).
 
 ### Producto
 
