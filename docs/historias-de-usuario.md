@@ -16,7 +16,7 @@ webs de cada universidad, una por asignatura y curso académico, en texto y con
 una estructura muy similar. De ellas se usan las competencias, los contenidos,
 los ECTS y el carácter (obligatoria u optativa).
 
-## HU1. Elección de destino ([#3](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/3))
+## HU1. Elección de destino ([#2](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/2))
 
 **Problema.** Pablo eligió la UPM por la ciudad y por su oferta de Informática,
 sin saber cuáles de las asignaturas que le faltaban para terminar la carrera no
@@ -46,7 +46,7 @@ de destino con ECTS suficientes puede incorporarse como optativa.
 **Contexto.** [Etapa 1 del user journey: elección de
 destino](user-journeys.md#1-elección-de-destino).
 
-## HU2. Construcción del acuerdo ([#2](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/2))
+## HU2. Construcción del acuerdo ([#3](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/3))
 
 **Problema.** Con el destino ya elegido, Pablo tardó entre 6 y 8 horas en
 combinar a mano las asignaturas que le faltaban con las de la UPM. Aun así, no
