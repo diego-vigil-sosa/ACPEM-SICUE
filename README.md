@@ -159,9 +159,9 @@ solo para ajustarlos.
 - [User journeys](docs/user-journeys.md)
 - [Personas](docs/personas.md)
 - [Historias de usuario](docs/historias-de-usuario.md)
-  ([issues](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/issues?q=label%3Auser-stories))
+  ([issues](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues?q=label%3Auser-stories))
 - [Milestones](docs/milestones-proyecto.md) ([en
-  GitHub](https://github.com/diego-vigil-sosa/IV-equivalencia-de-planes-de-estudios/milestones))
+  GitHub](https://github.com/diego-vigil-sosa/ACPEM-SICUE/milestones))
 
 ## Documentación adicional
 
