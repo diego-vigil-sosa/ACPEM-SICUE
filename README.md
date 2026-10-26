@@ -89,7 +89,7 @@ después escoger una combinación.
 semestre:**
 
 | Curso | Asignaturas en el 1er semestre |
-|---|---|
+| --- | --- |
 | 1º | 5 (todas troncales) |
 | 2º | 5 (todas obligatorias) |
 | 3º | 5 (comunes; las de especialidad son del 2º semestre) |
@@ -100,7 +100,7 @@ Un estudiante de último curso solo puede escoger asignaturas de 3º y 4º, es
 decir, 33.
 
 | | Medio curso (ETSIIT, último curso) | Curso completo (estimación) |
-|---|---|---|
+| --- | --- | --- |
 | Asignaturas de origen a sustituir | 5 (30 ECTS) | 10 (60 ECTS) |
 | Asignaturas elegibles en destino | 33 | ~60 |
 | Guías docentes que leer | 38 | ~70 |
@@ -143,8 +143,8 @@ casos:
   válidos. Se pueden obtener de estudiantes SICUE de cursos anteriores, que no
   son pocos: según CRUE, el programa sumó 63.268 movilidades en sus primeros
   veinte años ([CRUE,
-  2019](https://www.crue.org/2019/10/aniversario-sicue-20/)), una media de unas 3.000
-  al año.
+  2019](https://www.crue.org/2019/10/aniversario-sicue-20/)), una media de unas
+  3.000 al año.
 - **Casos negativos.** Son planes que el coordinador de origen no firmaría. Se
   obtienen preguntándole por propuestas concretas, por ejemplo variantes de
   acuerdos aprobados en las que una asignatura se sustituye por otra sin

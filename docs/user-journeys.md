@@ -2,17 +2,10 @@
 
 ## Estudiante SICUE de curso completo (UGR → UPM)
 
-> **Fuente:** entrevista a un estudiante SICUE real. El estudiante autorizó
-> citar sus respuestas de forma anónima y usar su acuerdo académico aprobado,
-> anonimizado, como caso de prueba.
->
-> **Convención:** el texto entre comillas angulares («») es cita literal del
-> estudiante.
-
 ### Perfil
 
 | | |
-|---|---|
+| --- | --- |
 | **Origen** | Universidad de Granada (UGR), doble grado en Ingeniería Informática y Matemáticas |
 | **Curso** | 5º (último año) |
 | **Destino** | Universidad Politécnica de Madrid (UPM) |
@@ -38,15 +31,10 @@ un análisis de equivalencia de asignaturas concretas.
 faltan tendrán equivalente. En un doble grado esto es relevante: la UPM ofrece
 mucha Informática, pero no necesariamente las asignaturas de Matemáticas.
 
-**Qué habría querido saber.** «Dónde están los grupos de WhatsApp y qué gente de
-España va de SICUE a esa universidad.»
-
 **Necesidades.**
 
 - Necesita saber, antes de elegir destino, qué asignaturas de las que le faltan
   no tendrían equivalente en cada universidad candidata.
-- Necesita conocer a otros estudiantes que van al mismo destino. (Necesidad
-  expresada por el estudiante; queda fuera del alcance de este proyecto.)
 
 #### 2. Elaboración del acuerdo académico
 
@@ -89,9 +77,6 @@ versiones** del acuerdo hasta que lo firman todas las partes.
 
 **Punto de dolor.** El rechazo llega en la firma, es decir, después de haber
 invertido el tiempo de análisis.
-
-*Hipótesis no confirmada:* el estudiante no tenía forma de anticipar qué
-juzgaría el coordinador como «no coincidente».
 
 **Necesidades.**
 

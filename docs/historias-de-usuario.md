@@ -1,21 +1,5 @@
 # Historias de usuario
 
-Las dos historias son problemas de [Pablo](personas.md) y salen de su [user
-journey](user-journeys.md#estudiante-sicue-de-curso-completo-ugr--upm). Están
-numeradas en el orden en que le ocurren: primero elige destino y después, con el
-destino ya elegido, construye el acuerdo académico.
-
-En las dos, la equivalencia entre una asignatura de origen y una de destino se
-juzga como lo hace el coordinador de origen al firmar: por la adecuación de sus
-**competencias y** sus **contenidos**, no por el nombre (ver [Criterio de
-equivalencia](../README.md#criterio-de-equivalencia)). La normativa exige las
-dos cosas; parecerse solo en una no basta.
-
-La fuente de datos común son las guías docentes. Son públicas y están en las
-webs de cada universidad, una por asignatura y curso académico, en texto y con
-una estructura muy similar. De ellas se usan las competencias, los contenidos,
-los ECTS y el carácter (obligatoria u optativa).
-
 ## HU1. Elección de destino ([#2](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/2))
 
 **Problema.** Pablo eligió la UPM por la ciudad y por su oferta de Informática,
@@ -26,8 +10,7 @@ asignado y no podía cambiarlo: Análisis Funcional no tenía un equivalente cla
 en la UPM. El riesgo se concentra en la titulación con menos oferta en destino;
 en su doble grado, Matemáticas en una universidad elegida por su Informática.
 Para saberlo antes de elegir tendría que haber leído las guías de todas las
-universidades candidatas, y cada una supone decenas de guías (ver [Escala del
-problema](../README.md#escala-del-problema)).
+universidades candidatas, y cada una supone decenas de guías.
 
 Una asignatura de origen optativa no tiene este problema: cualquier asignatura
 de destino con ECTS suficientes puede incorporarse como optativa.
@@ -50,8 +33,7 @@ destino](user-journeys.md#1-elección-de-destino).
 
 **Problema.** Con el destino ya elegido, Pablo tardó entre 6 y 8 horas en
 combinar a mano las asignaturas que le faltaban con las de la UPM. Aun así, no
-sabía si su combinación cumplía las reglas del acuerdo (ver [Criterio de
-equivalencia](../README.md#criterio-de-equivalencia)): que cada asignatura de
+sabía si su combinación cumplía las reglas del acuerdo: que cada asignatura de
 origen quede cubierta por asignaturas de destino equivalentes con ECTS
 suficientes, que cada asignatura de destino cubra como máximo una de origen y
 que el total llegue al mínimo de ECTS de la estancia. Tampoco sabía si había
