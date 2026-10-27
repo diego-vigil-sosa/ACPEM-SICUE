@@ -10,8 +10,8 @@ Es la base sobre la que el M1 añadirá la lógica y sus tests.
 
 ### Validez
 
-- La HU1 se analiza siguiendo el método DDD, y cada problema que surge
-  del análisis se plantea en un issue enlazado a la HU1.
+- El código se desarrolla aplicando DDD a la HU1, y cada problema que surge se
+  plantea en un issue enlazado a la HU1.
 
 ## M1. Lógica de la HU1 con tests
 
