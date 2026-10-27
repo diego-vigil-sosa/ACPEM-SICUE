@@ -17,8 +17,7 @@ cada pareja fijándose sobre todo en el contenido y, en menor medida, en el
 nombre. Le llevó entre 6 y 8 horas, repartidas en 3 o 4 días. Aun así, el
 coordinador SICUE de origen rechazó la pareja propuesta para Análisis Funcional
 porque «la guía no coincidía del todo con la de la UGR», e hicieron falta 2
-versiones del acuerdo hasta la firma. La salida fue cursar
-Análisis Funcional en la UGR mediante evaluación única final. Más tarde, la semana
+versiones del acuerdo hasta la firma. Más tarde, la semana
 antes de empezar las clases, un conflicto de horario le obligó a modificar el
 acuerdo. Cada contratiempo obliga a repetir, total o parcialmente, el análisis.
 
