@@ -12,10 +12,6 @@ Es la base sobre la que el M1 añadirá la lógica y sus tests.
 
 - La HU1 se analiza siguiendo el método DDD, y cada problema que surge
   del análisis se plantea en un issue enlazado a la HU1.
-- El pull request lo revisa el autor del problema, como product manager, y lo
-  acepta solo si con ese código se puede expresar el caso de Pablo descrito en
-  la HU1, incluida la pareja de Análisis Funcional rechazada, sin añadir nada
-  que la HU1 no recoja.
 
 ## M1. Lógica de la HU1 con tests
 
@@ -27,8 +23,4 @@ comprueban.
 
 ### Validez
 
-- Los tests se ejecutan automáticamente y deben pasar todos. Se basan en el
-  caso de Pablo descrito en la HU1.
-- Los tests incluyen parejas de asignaturas reales, sacadas de las guías que
-  cita la HU1: unas claramente equivalentes y otras sin relación, y comprueban
-  que se distinguen correctamente.
+- Los tests se ejecutan automáticamente y deben pasar todos.
