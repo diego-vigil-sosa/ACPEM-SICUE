@@ -4,8 +4,8 @@
 
 ### Producto
 
-Código incorporado al repositorio que expresa el problema de la HU1 con los
-mismos términos que usa la HU1, sin implementar ningún comportamiento.
+Código fuente que representa el problema de la HU1 con los mismos términos que
+usa la HU1.
 Es la base sobre la que el M1 añadirá la lógica y sus tests.
 
 ### Validez
