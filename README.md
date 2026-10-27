@@ -24,8 +24,9 @@ estudiante tiene que:
 El acuerdo académico es vinculante: una vez firmado por las tres partes, lo que
 el estudiante curse en destino se reconoce automáticamente en origen, y el
 acuerdo solo puede modificarse durante el primer mes desde el inicio del
-semestre ([normas del programa SICUE, CRUE](https://www.crue.org/sicue/)). Por
-eso la decisión clave es la del coordinador de origen al firmar: en ese momento
+semestre ([Convocatoria SICUE
+2026/2027](https://www.crue.org/wp-content/uploads/2025/12/00.-Convocatoria_SICUE_2026-2027_vf-1.pdf)).
+Por eso la decisión clave es la del coordinador de origen al firmar: en ese momento
 se juzga si las asignaturas elegidas son equivalentes.
 
 ### Criterio de equivalencia
@@ -37,8 +38,9 @@ regula el reconocimiento de créditos entre títulos universitarios oficiales y
 encarga a cada universidad aprobar su propia normativa. Estas normativas
 concretan el criterio con la misma fórmula: la adecuación entre las competencias
 y conocimientos asociados a las asignaturas cursadas y los previstos en el plan
-de estudios. Las [normas del programa SICUE](https://www.crue.org/sicue/) añaden
-dos cosas. El intercambio debe adecuarse al perfil curricular del estudiante.
+de estudios. La [Convocatoria SICUE
+2026/2027](https://www.crue.org/wp-content/uploads/2025/12/00.-Convocatoria_SICUE_2026-2027_vf-1.pdf)
+añade dos cosas. El intercambio debe adecuarse al perfil curricular del estudiante.
 Además, las optativas de destino que no existan en el plan de origen pueden
 incorporarse al expediente como optativas.
 
@@ -49,8 +51,9 @@ En este proyecto, ese criterio se traduce en las siguientes reglas:
   contenidos supera un umbral, y la suma de sus ECTS es igual o mayor que los
   ECTS de la asignatura de origen.
 - Cada asignatura de destino cubre, como máximo, una asignatura de origen.
-- La optativa de origen puede cubrirse con cualquier asignatura de destino con
-  ECTS suficientes, ya que puede incorporarse como optativa.
+- Una optativa de origen puede cubrirse con una optativa de destino que no esté
+  en el plan de origen y tenga ECTS suficientes, ya que esta se incorpora al
+  expediente como optativa.
 - El plan debe sumar al menos 24 ECTS en una estancia de medio curso o 45 ECTS
   en una de curso completo.
 - El **grado de equivalencia** de un plan es el porcentaje de ECTS de origen
@@ -73,10 +76,14 @@ En este proyecto, ese criterio se traduce en las siguientes reglas:
 ### Datos disponibles
 
 Las guías docentes de las asignaturas son públicas, al igual que otros criterios
-de equivalencia, como el número de créditos ECTS. Las guías están en formato
-textual en páginas web, en español y con una estructura muy similar entre
-universidades españolas (competencias, resultados de aprendizaje, contenidos,
-metodología y evaluación).
+de equivalencia, como el número de créditos ECTS. Las guías están en español y
+todas incluyen competencias, resultados de aprendizaje, contenidos y evaluación,
+pero cada universidad las organiza y publica a su manera: la UGR en páginas web
+y la UPM en PDF. Por ejemplo, las del [doble grado en Ingeniería
+Informática y Matemáticas de la
+UGR](https://grados.ugr.es/ramas/dobles-titulaciones/grado-ingenieria-informatica-matematicas)
+y las [guías de aprendizaje de la ETSI de Ingenieros Informáticos de la
+UPM](https://www.etsiinf.upm.es/?pagina=3079).
 
 ### Escala del problema
 
