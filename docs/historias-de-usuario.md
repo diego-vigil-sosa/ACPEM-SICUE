@@ -1,38 +1,23 @@
 # Historias de usuario
 
-## HU1. Incertidumbre sobre la aceptación y elevado coste en tiempo para elaborar el acuerdo académico ([#2](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/2))
+## HU1. Ineficacia para llegar a un acuerdo académico admisible ([#2](https://github.com/diego-vigil-sosa/ACPEM-SICUE/issues/2))
 
 ### Descripción del problema
 
-Elaborar un acuerdo académico SICUE exige **horas de lectura y
-comparación de guías docentes**, y el estudiante **no sabe si el acuerdo será
-aceptado hasta la firma del coordinador de origen**, cuando ese tiempo ya está
-invertido.
+Pablo, estudiante de último curso del doble grado en Ingeniería Informática y
+Matemáticas de la UGR, obtuvo una plaza SICUE de curso completo en la UPM y
+tenía que elaborar un acuerdo académico admisible: cada asignatura que le
+faltaba en la UGR debía quedar cubierta por asignaturas de la UPM equivalentes
+en competencias y contenidos y con ECTS suficientes, y el acuerdo debía sumar
+al menos 45 ECTS.
 
-Es lo que le ocurrió a Pablo, estudiante de último curso del doble
-grado en Ingeniería Informática y Matemáticas de la UGR, que quería realizar una
-estancia SICUE de curso completo en la UPM. Para ello necesitaba elaborar un
-acuerdo académico que fuera admisible y le satisficiera. Era admisible si cada
-asignatura que le faltaba en la UGR quedaba cubierta por asignaturas de la UPM
-equivalentes en competencias y contenidos y con ECTS suficientes, y si el
-acuerdo sumaba al menos 45 ECTS. También podía cursar optativas de la UPM que no
-estuvieran en el plan de estudios de la UGR, que se incorporarían después a su
-expediente como optativas. Y le satisfacía si incluía asignaturas que realmente
-quería cursar.
-
-Sin embargo, la única confirmación de que el acuerdo era admisible era la firma
-del coordinador SICUE de origen, que solo llegaba cuando Pablo ya lo había
-elaborado.
-Durante la elaboración, los coordinadores solo le indicaban si podía o no cursar
-una asignatura, sin recomendarle alternativas.
-
-Para elaborarlo, Pablo leyó las guías docentes de las asignaturas que le faltaban
-en la UGR y de casi todas las optativas de la UPM, y decidió la equivalencia de
+Para elaborarlo, leyó las guías docentes de las asignaturas que le faltaban en
+la UGR y de casi todas las optativas de la UPM, y decidió la equivalencia de
 cada pareja fijándose sobre todo en el contenido y, en menor medida, en el
 nombre. Le llevó entre 6 y 8 horas, repartidas en 3 o 4 días. Aun así, el
-coordinador rechazó la pareja propuesta para Análisis Funcional porque «la guía
-no coincidía del todo con la de la UGR», cuando ya había invertido ese tiempo, e
-hicieron falta 2 versiones del acuerdo hasta la firma. La salida fue cursar
+coordinador SICUE de origen rechazó la pareja propuesta para Análisis Funcional
+porque «la guía no coincidía del todo con la de la UGR», e hicieron falta 2
+versiones del acuerdo hasta la firma. La salida fue cursar
 Análisis Funcional en la UGR mediante evaluación única final. Más tarde, la semana
 antes de empezar las clases, un conflicto de horario le obligó a modificar el
 acuerdo. Cada contratiempo obliga a repetir, total o parcialmente, el análisis.
