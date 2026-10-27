@@ -17,8 +17,6 @@ reconozcan como equivalentes a las que le faltan, sin perder créditos ni tiempo
   «principalmente por el contenido».
 - Se entera tarde de lo que no tiene equivalente: al elegir destino y en la
   firma.
-- Su riesgo está en Matemáticas, la titulación con menos oferta en un destino
-  elegido por su Informática.
 
 **Cuándo diría «ha ido bien».** Su valoración final fue «creo que me ha ido
 bien». Diría que ha ido bien si firma
