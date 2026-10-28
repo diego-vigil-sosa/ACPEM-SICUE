@@ -2,15 +2,9 @@
 
 ## M0. Problema de la HU1 en código
 
-### Producto
-
-Código fuente que representa el problema de la HU1 con los mismos términos que
-usa la HU1.
-Es la base sobre la que el M1 añadirá la lógica y sus tests.
-
-### Validez
-
-- El código se desarrolla aplicando DDD a la HU1.
+Primer código fuente del proyecto, obtenido aplicando DDD a la HU1. Es válido
+si se ha seguido esa metodología para obtenerlo, y es la base sobre la que el
+M1 añadirá la lógica y sus tests.
 
 ## M1. Lógica de la HU1 con tests
 
