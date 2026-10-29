@@ -171,9 +171,6 @@ asignatura sin equivalente.
 
 - Necesita saber qué asignaturas de origen quedan sin cobertura **antes** de
   elegir destino o, como mínimo, antes de presentar el acuerdo.
-- Necesita poder contar, al planificar, con la opción de cursar en origen una
-  asignatura sin equivalente (por ejemplo, con evaluación única final), porque
-  esa fue su salida real.
 
 ### Contexto
 
