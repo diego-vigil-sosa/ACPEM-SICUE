@@ -21,8 +21,7 @@ reconozcan como equivalentes a las que le faltan, sin perder créditos ni tiempo
 **Cuándo diría «ha ido bien».** Su valoración final fue «creo que me ha ido
 bien». Diría que ha ido bien si firma
 el acuerdo sin rechazos sorpresa, sabiendo de antemano qué asignaturas puede
-rechazarle el coordinador y cuáles no tienen equivalente, y con una salida para
-estas (la suya: cursarlas en origen con evaluación única final).
+rechazarle el coordinador y cuáles no tienen equivalente.
 
 **Contexto de uso.** Una vez por movilidad y de nuevo con cada modificación del
 acuerdo. Lo costoso es el análisis inicial; las modificaciones con muchas
